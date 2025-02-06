@@ -1,10 +1,14 @@
-# Dynamic Website Hosting on AWS
+# Dynamic Website Hosting on AWS with Terraform
 
 ## Project Overview
 This project involves hosting a dynamic website on AWS. The architecture leverages AWS cloud resources to ensure high availability, security, scalability, and fault tolerance.
 
+
 ## Project Repository
-A GitHub repository has been created to store reference diagrams and deployment scripts. You can find it [here](#).
+A GitHub repository has been created to store reference diagrams and deployment scripts. 
+
+## Infrastructure as Code (IaC) using Terraform
+This project also leverages Terraform to automate the provisioning and management of cloud infrastructure. It simplifies resource deployment, ensures consistency, and enhances scalability. You can find the Terraform configuration files in the following repository: [Terraform Project Repository](https://github.com/li-zhang1/terraform-projects).
 
 ## Architecture Diagram
 Below is the architecture diagram illustrating the AWS resource deployment for this project:
