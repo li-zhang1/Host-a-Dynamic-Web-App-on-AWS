@@ -8,7 +8,7 @@ This project involves hosting a dynamic website on AWS. The architecture leverag
 A GitHub repository has been created to store reference diagrams and deployment scripts. 
 
 ## Infrastructure as Code (IaC) using Terraform
-This project also leverages Terraform to automate the provisioning and management of cloud infrastructure. It simplifies resource deployment, ensures consistency, and enhances scalability. You can find the Terraform configuration files in the following repository: [Terraform Project Repository](https://github.com/li-zhang1/terraform-projects).
+This project also leverages Terraform to automate the provisioning and management of cloud infrastructure. It simplifies resource deployment, ensures consistency, and enhances scalability. You can find the Terraform configuration files in the following repository: [Terraform Project Repository](https://github.com/li-zhang1/terraform-ec2-projects).
 
 ## Architecture Diagram
 Below is the architecture diagram illustrating the AWS resource deployment for this project:
